@@ -1,6 +1,8 @@
- Hi 👋 I am vishnu kumar kewat
+<h1 align="center">Hi 👋, I'm vishnu kumar kewat</h1>
+<h3 align="center">student, intrest in coding.</h3>
 
- - 📫 How to reach me: vishnukewat1272@gmail.com
+<h3 align="left">Connect with me:  vishnukewat1272@gmail.com </h3>
+
  - 🌱 I’m currently learning : DSA with java , Web development specially front-end.
 <!--
 **Vkcoder123/Vkcoder123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
